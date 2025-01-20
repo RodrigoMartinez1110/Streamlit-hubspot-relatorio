@@ -31,7 +31,7 @@ st.set_page_config(page_title="Análise de Leads", layout="wide", initial_sideba
 
 # Título principal
 st.title("📊 Dashboard de Leads")
-st.title("==============================================================")
+st.write('=-=-=-=-=-=-=-=-=-=-=-=')
 
 # Upload do arquivo
 st.sidebar.header("Upload do Arquivo")
